@@ -1,6 +1,3 @@
-#TODO CONVERT TO 1-BASED INDEXING
-
-
 function readOCR(input_grid::Array{String,1})
 
 
